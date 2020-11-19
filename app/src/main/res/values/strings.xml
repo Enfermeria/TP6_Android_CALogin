@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CA Login</string>
+    <string name="imagen_del_usuario">Imagen del usuario</string>
+    <string name="nombre">Nombre</string>
+    <string name="password">Contraseña</string>
+    <string name="btnIngresar">Botón de ingreso</string>
+</resources>
